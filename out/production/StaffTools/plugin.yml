@@ -1,0 +1,11 @@
+name: FlyBroadcaster
+main: me.decyphr.StaffTools.StaffTools
+version: 0.1
+author: decyphr
+description: Custom made broadcast plugin for FlyVerse.
+
+commands:
+  fbc:
+    description: "Sends a global announcment."
+    aliases: [flybroadcast]
+    permission: flybroadcast.announce
